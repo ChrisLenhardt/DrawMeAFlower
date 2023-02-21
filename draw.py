@@ -10,7 +10,13 @@ def makeSeedPod():
     turtle.color("yellow")
     turtle.dot(100)
 #begin cooking
-makeBackground()
+#makeBackground()
+
+turtle.home()
+turtle.circle(100,90)
+turtle.circle(50,90)
+turtle.circle(100,90)
+turtle.circle(50,90)
 
 
 
